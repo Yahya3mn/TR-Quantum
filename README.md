@@ -29,13 +29,13 @@ Bu proje, **Türkçe ve erişilebilir bir kuantum bilişim kaynağı** oluşturm
    - [Ölçüm ve Olasılık](01-temel-kavramlar/Ölcum.ipynb)  
 
 2. [Kuantum Algoritmaları](02-KuantumAlgoritmaları)  
-   - [Deutsch–Jozsa Algoritması](02-algoritmalar/DeutschJozsa.ipynb)  
-   - [Grover Algoritması](02-algoritmalar/Grover.ipynb)  
-   - [Shor Algoritması](02-algoritmalar/Shor.ipynb)  
-   - [Kuantum Fourier Dönüşümü (QFT)](02-algoritmalar/KuantumFourierDönüşümü.ipynb.ipynb)  
-   - [Bernstein-Vazirani Algoritması](02-algoritmalar/Bernstein-VaziraniAlgoritması.ipynb)
-   - [Kuantum Faz Tahmini](02-algoritmalar/QPhaseEstimation.ipynb)
-   - [VQE & QAOA](02-algoritmalar/vqe-qaoa.ipynb)
+   - [Deutsch–Jozsa Algoritması](02-KuantumAlgoritmaları/DeutschJozsa.ipynb)  
+   - [Grover Algoritması](02-KuantumAlgoritmaları/Grover.ipynb)  
+   - [Shor Algoritması](02-KuantumAlgoritmaları/Shor.ipynb)  
+   - [Kuantum Fourier Dönüşümü (QFT)](02-KuantumAlgoritmaları/KuantumFourierDönüşümü.ipynb.ipynb)  
+   - [Bernstein-Vazirani Algoritması](02-KuantumAlgoritmaları/Bernstein-VaziraniAlgoritması.ipynb)
+   - [Kuantum Faz Tahmini](02-KuantumAlgoritmaları/QPhaseEstimation.ipynb)
+   - [VQE & QAOA](02-KuantumAlgoritmaları/vqe-qaoa.ipynb)
 
 3. [Uygulama Örnekleri](03-uygulamalar/)  
    - [Qiskit ile Başlangıç](03-uygulamalar/qiskit-giris.ipynb)  
@@ -93,6 +93,7 @@ Kuantum hesaplama üzerine güncel akademik yayınlar
 👥 Katılımcılar
 Bu proje aşağıdaki katılımcılar tarafından geliştirilmiştir:
 
+- [Dr. Öğr. Üyesi İsa AVCI](https://github.com/iavci1981)
 - [Kamile GÜLER](https://github.com/KamileGULER)
 - [Yahya Zakrya Khan](https://github.com/Yahya3mn)
 - [Aslıhan İnan](https://github.com/AslihanINAN)
