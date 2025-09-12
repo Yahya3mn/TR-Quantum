@@ -23,8 +23,11 @@ Bu proje, **Türkçe ve erişilebilir bir kuantum bilişim kaynağı** oluşturm
      - [Dolanıklık Giriş](01-temel-kavramlar/Dolanıklık/DolanıklıkGiriş.ipynb)  
      - [Teleportasyon](01-temel-kavramlar/Dolanıklık/Teleportasyon.ipynb)  
      - [Süper Yoğun Kodlama](01-temel-kavramlar/Dolanıklık/SüperYoğunKodlama.ipynb)
+   - [Matematiksel Altyapı](01-temel-kavramlar/MatematikselAltyapı/)
+     - [Lineer Cebir](01-temel-kavramlar/MatematikselAltyapı/lineerCebir.ipynb)
+     - [Karmaşık Sayılar ve İç Çarpım](01-temel-kavramlar/MatematikselAltyapı/karmasıkSayılar.ipynb)
+     - [Olasılık](01-temel-kavramlar/MatematikselAltyapı/Olasılık.ipynb)
 
-   - [Matematiksel Altyapı](01-temel-kavramlar/Matematik.ipynb)  
    - [Kuantum Kapıları ve Devreler](01-temel-kavramlar/Kapilar.ipynb)  
    - [Ölçüm ve Olasılık](01-temel-kavramlar/Ölcum.ipynb)  
 
