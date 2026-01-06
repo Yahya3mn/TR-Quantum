@@ -24,14 +24,24 @@ Bu proje, **Türkçe ve erişilebilir bir kuantum bilişim kaynağı** oluşturm
      - [Teleportasyon](01-temel-kavramlar/Dolanıklık/Teleportasyon.ipynb)  
      - [Süper Yoğun Kodlama](01-temel-kavramlar/Dolanıklık/SüperYoğunKodlama.ipynb)
    - [Matematiksel Altyapı](01-temel-kavramlar/MatematikselAltyapı/)
+     - [Giriş](01-temel-kavramlar/MatematikselAltyapı/matematiğeGiriş.ipynb)
      - [Lineer Cebir](01-temel-kavramlar/MatematikselAltyapı/lineerCebir.ipynb)
-     - [Karmaşık Sayılar ve İç Çarpım](01-temel-kavramlar/MatematikselAltyapı/karmasıkSayılar.ipynb)
+     - [Karmaşık Sayılar](01-temel-kavramlar/MatematikselAltyapı/karmasıkSayılar.ipynb)
      - [Olasılık](01-temel-kavramlar/MatematikselAltyapı/Olasılık.ipynb)
+     - [Analizde Gerekli Kavramlar](01-temel-kavramlar/MatematikselAltyapı/analizGerekliKavramlar.ipynb)
+     - [Operatörler ve Lineer Cebir](01-temel-kavramlar/MatematikselAltyapı/operatörlerveLineerCebir.ipynb)
+     - [Soyutlamadan Fiziksel Yoruma](01-temel-kavramlar/MatematikselAltyapı/soyutlamadanFizikselYoruma.ipynb)
+     - [Bölüm Özeti](01-temel-kavramlar/MatematikselAltyapı/matematikÖzet.ipynb)
+     - [Bölüm Terimler Sözlüğü](01-temel-kavramlar/MatematikselAltyapı/matematikselAltyapıSözlük.ipynb)
 
-   - [Kuantum Kapıları ve Devreler](01-temel-kavramlar/Kapilar.ipynb)  
-   - [Ölçüm ve Olasılık](01-temel-kavramlar/Ölcum.ipynb)  
+   - [Kuantum Kapıları ve Devreler](01-temel-kavramlar/KuantumKapılarıveDevreler/)
+     - [Kapı ve Devreler Giriş](01-temel-kavramlar/KuantumKapılarıveDevreler/kapıveDevrelerGiriş.ipynb)
+     - [Tek Qubit Kapıları](01-temel-kavramlar/KuantumKapılarıveDevreler/tekQubitKapıları.ipynb)
+     - [İki Qubit Kapıları](01-temel-kavramlar/KuantumKapılarıveDevreler/ikiQubitliKapılar.ipynb)
+     - [Çok Qubit Kapıları](01-temel-kavramlar/KuantumKapılarıveDevreler/cokQubitKapıları.ipynb)
+     - [Bölüm Özeti ve Sözlük](01-temel-kavramlar/KuantumKapılarıveDevreler/kapılarÖzetveSözlük.ipynb)
 
-2. [Kuantum Algoritmaları](02-KuantumAlgoritmaları)  
+3. [Kuantum Algoritmaları](02-KuantumAlgoritmaları)  
    - [Deutsch–Jozsa Algoritması](02-KuantumAlgoritmaları/DeutschJozsa.ipynb)  
    - [Grover Algoritması](02-KuantumAlgoritmaları/Grover.ipynb)  
    - [Shor Algoritması](02-KuantumAlgoritmaları/Shor.ipynb)  
@@ -40,51 +50,17 @@ Bu proje, **Türkçe ve erişilebilir bir kuantum bilişim kaynağı** oluşturm
    - [Kuantum Faz Tahmini](02-KuantumAlgoritmaları/QPhaseEstimation.ipynb)
    - [VQE & QAOA](02-KuantumAlgoritmaları/vqe-qaoa.ipynb)
 
-3. [Uygulama Örnekleri](03-uygulamalar/)  
+4. [Uygulama Örnekleri](03-uygulamalar/)  
    - [Qiskit ile Başlangıç](03-uygulamalar/qiskit-giris.ipynb)  
    - [Kriptografi Uygulamaları](03-uygulamalar/kriptografi.ipynb)  
    - [Optimizasyon Problemleri](03-uygulamalar/optimizasyon.ipynbd)  
    - [Kuantum Makine Öğrenmesi (QML)](03-uygulamalar/qml.ipynb)  
 
-4. [Kaynaklar ve Ekler](04-kaynaklar/)  
-   - [Terimler Sözlüğü](04-kaynaklar/sozluk.ipynb)  
-   - [Kitaplar](04-kaynaklar/kitaplar.ipynb)  
-   - [Makaleler](04-kaynaklar/makaleler.ipynb)  
-   - [Online Eğitim Kaynakları](04-kaynaklar/online-egitim.ipynb)  
+5. [Kaynaklar ve Ekler](04-kaynaklar/)  
+   - [Terimler Sözlüğü](04-kaynaklar/Sözlük(1).ipynb)  
+   - [Kaynakça](04-kaynaklar/Kaynakça.bib)  
 
 ---
-
-🗺️ Yol Haritası (Roadmap)
-Bu proje aşamalı olarak geliştirilecektir. Hedeflenen adımlar şunlardır:
-
-1. Aşama – Temel Kavramlar ✅ (devam ediyor)
-Qubit, süperpozisyon ve dolanıklık konularının eklenmesi
-
-Kuantum kapıları ve ölçüm örneklerinin hazırlanması
-
-Matematiksel altyapı (lineer cebir, Dirac notasyonu)
-
-2. Aşama – Kuantum Algoritmaları
-Deutsch–Jozsa, Grover ve Shor algoritmalarının açıklanması
-
-Kuantum Fourier Dönüşümü (QFT) örnekleri
-
-VQE ve QAOA gibi hibrit algoritmalar
-
-3. Aşama – Uygulama Örnekleri
-Qiskit ile temel devreler
-
-Kriptografi ve optimizasyon uygulamaları
-
-Kuantum makine öğrenmesi (QML) örnekleri
-
-4. Aşama – Ekler ve Kaynaklar
-Terimler sözlüğü (Türkçe–İngilizce karşılıklar)
-
-Güncel akademik makaleler listesi
-
-Online eğitim platformları bağlantıları
-
 
 📖 Önerilen Kaynaklar
 M. A. Nielsen & I. L. Chuang – Quantum Computation and Quantum Information
